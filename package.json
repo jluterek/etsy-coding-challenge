@@ -1,0 +1,17 @@
+{
+  "name": "etsy-coding-challenge",
+  "version": "0.0.1",
+  "description": "Application to track etsy store updates over time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Luterek <james.luterek@gmail.com> (https://www.jamesluterek.com)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "commander": "^2.14.0",
+    "deep-diff": "^0.3.8",
+    "deep-equal": "^1.0.1"
+  }
+}
