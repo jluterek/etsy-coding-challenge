@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Data Files
+data/
+
+# Workpace Files
+.vscode/

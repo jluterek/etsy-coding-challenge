@@ -48,7 +48,7 @@ Examples:
 
 To execute the program
 ```
-node index.js -k xxxxxxxxxxxxxxxxxxxxxxxx -i 17048633,17048647,17048693,17048703,17048745 --save
+> node index.js -k xxxxxxxxxxxxxxxxxxxxxxxx -i 17048633,17048647,17048693,17048703,17048745 --save
 
 Shop ID 17048693
  # modified listing 591892355
